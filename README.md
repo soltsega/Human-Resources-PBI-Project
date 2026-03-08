@@ -48,7 +48,6 @@ graph TD
 
 ## Dashboard Visualization
 ![Dashboard Preview](screenshots/dashboard_preview.png)
-*A professional visualization of the Human Resources Analytics Dashboard.*
 
 ## Key Metrics (KPIs)
 * **Total Employees**: Total headcount across all departments.
